@@ -1,0 +1,3 @@
+* geodesic_public
+
+This repository contains some of my code for the geodesic project.
