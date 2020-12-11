@@ -17,7 +17,7 @@ I found in August.
 
 
 In ~Plotting_dot20tau_10Dec2020.ipynb~, I find a quintic polynomial
-that has an intersection angle of \(\tau/5=2\pi/5\).
+that has an intersection angle of \tau/5=2\pi/5.
 
 
 GitHub doesn't display the 3D plots, so try using [[https://nbviewer.jupyter.org/][nbviewer]]. But
