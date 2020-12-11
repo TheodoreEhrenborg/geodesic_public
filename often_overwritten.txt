@@ -1,0 +1,9 @@
+If you want to safely halt a program that is 
+running for too long, type the word that is the 
+opposite of "go" and rhymes with "top", and then
+save this file.
+
+Type the word here: 
+
+You'll have to delete the word and save this file 
+before you start the program again.

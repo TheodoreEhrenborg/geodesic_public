@@ -1,3 +1,19 @@
 * geodesic_public
 
 This repository contains some of my code for the geodesic project.
+In a browser, the notebooks are best viewed [[https://nbviewer.jupyter.org/github/TheodoreEhrenborg/geodesic_public/tree/main/][here]].
+
+~Amoeba_8Aug2020.ipynb~ is where I implemented the Amoeba minimization
+algorithm from /Numerical Recipes/. 
+
+
+
+
+~Status_update_15Aug2020.ipynb~ contains images of the various surfaces
+I found in August.
+
+
+In ~Plotting_dot20tau_10Dec2020.ipynb~, I find a quintic polynomial
+that has an intersection angle of $ \tau / 5 = 2 \pi /5 $. I have
+other notebooks to find the other surfaces, but the code in this
+notebook is the neatest version yet.
